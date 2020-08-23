@@ -1,6 +1,6 @@
 # study_clean
 
-A new Flutter project.
+Projeto com objetivo de estudo de boas práticas Clean
 
 ## Getting Started
 
